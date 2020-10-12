@@ -3,5 +3,5 @@ Solver for the 8-puzzle problem using the following algorithms: BestFS (using Ma
 
 C++ code contents :
 
-1.A State Class which represents any state of the 8-puzzle.
-2.Main Class which has the implemented algorithms and runs with an example.
+- A State Class which represents any state of the 8-puzzle.
+- Main Class which has the implemented algorithms and runs with an example.
